@@ -241,11 +241,6 @@ body {
     .navbar-search input[type="text"] {
         width: 100%;
     }
-    .main-text{
-        max-width: 80%;
-        margin: auto;
-        font-size:x-large;
-    }
     
         .footer {
             padding: 15px 0;
