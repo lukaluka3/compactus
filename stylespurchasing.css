@@ -193,7 +193,7 @@ body {
     }
 
     .centri1, .secondary-text {
-        max-width: 100%; /* Full width on smaller screens */
+        max-width: 80%; /* Full width on smaller screens */
         margin: 0 auto;
     }
 
@@ -254,7 +254,7 @@ body {
     }
 
     .centri1, .secondary-text {
-        max-width: 100%; /* Full width on smaller screens */
+        max-width: 80%; /* Full width on smaller screens */
         margin: 0 auto;
     }
 
