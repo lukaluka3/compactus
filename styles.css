@@ -107,6 +107,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #004aad;
 }
 .text-container{
     max-width: 80%;
