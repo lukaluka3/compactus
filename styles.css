@@ -99,8 +99,8 @@ body {
     width: 80%;
     max-width: 100%; /* Ensures the image doesn't overflow */
     margin: auto;
-    height: 1000px; /* Set the desired height */
-    max-height: 1000px; /* Ensures the image height doesn't exceed this value */
+    height: 500px; /* Set the desired height */
+    max-height: 500px; /* Ensures the image height doesn't exceed this value */
     object-fit: cover; /* Ensures the image covers the area without stretching */
 }
 .main-text{
